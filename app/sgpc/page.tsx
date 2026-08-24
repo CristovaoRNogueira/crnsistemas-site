@@ -94,7 +94,7 @@ export default function SGPCPage() {
 
             <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
               <a
-                href="https://sgpc.crnsistemas.com.br"
+                href="https://sgpc.crnsistemas.com.br/login"
                 className="rounded-xl bg-[var(--crn-yellow)] px-8 py-4 text-base font-semibold text-[var(--crn-black)] transition hover:bg-[var(--crn-yellow-dark)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
               >
                 Acessar o sistema
@@ -177,7 +177,7 @@ export default function SGPCPage() {
         theme="dark"
         title="Pronto para modernizar a gestão pública?"
         primaryLabel="Acessar SGPC"
-        primaryHref="https://sgpc.crnsistemas.com.br"
+        primaryHref="https://sgpc.crnsistemas.com.br/login"
         secondaryLabel="Falar com a equipe"
         secondaryHref="/contato"
       />

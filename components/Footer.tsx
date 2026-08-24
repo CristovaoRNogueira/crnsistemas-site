@@ -45,7 +45,7 @@ export default function Footer() {
 
                         <a
                             className="block hover:text-white"
-                            href="https://sgpc.crnsistemas.com.br"
+                            href="https://sgpc.crnsistemas.com.br/login"
                         >
                             Acessar SGPC
                         </a>

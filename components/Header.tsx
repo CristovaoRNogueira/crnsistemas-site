@@ -54,7 +54,7 @@ export default function Header() {
                     </Link>
 
                     <a
-                        href="https://sgpc.crnsistemas.com.br"
+                        href="https://sgpc.crnsistemas.com.br/login"
                         className="rounded-lg bg-[var(--crn-yellow)] px-5 py-3 text-sm font-semibold text-[var(--crn-black)] transition hover:bg-[var(--crn-yellow-dark)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--crn-black)]"
                     >
                         Acessar SGPC

@@ -68,7 +68,7 @@ export default function Home() {
               </Link>
 
               <a
-                href="https://sgpc.crnsistemas.com.br"
+                href="https://sgpc.crnsistemas.com.br/login"
                 className="rounded-xl bg-[var(--crn-yellow)] px-6 py-3.5 text-sm font-semibold text-[var(--crn-black)] transition hover:bg-[var(--crn-yellow-dark)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-black"
               >
                 Acessar SGPC
@@ -197,7 +197,7 @@ export default function Home() {
             </Link>
 
             <a
-              href="https://sgpc.crnsistemas.com.br"
+              href="https://sgpc.crnsistemas.com.br/login"
               className="rounded-xl bg-[var(--crn-yellow)] px-6 py-3.5 text-sm font-semibold text-[var(--crn-black)] transition hover:bg-[var(--crn-yellow-dark)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--crn-yellow)]"
             >
               Acessar o sistema

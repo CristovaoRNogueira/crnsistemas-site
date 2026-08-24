@@ -49,7 +49,7 @@ export default function CTA({
                         ) : (
                             <Link
                                 href={primaryHref}
-                                className="inline-flex items-center justify-center rounded-xl bg-[#171717] px-6 py-3.5 text-sm font-semibold text-[#FFFFFF] transition-all hover:bg-[#2a2a2a] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--crn-black)]"
+                                className="inline-flex items-center justify-center rounded-xl bg-[#171717] px-6 py-3.5 text-sm font-semibold !text-white transition-all hover:bg-[#2a2a2a] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--crn-black)]"
                             >
                                 {primaryLabel}
                             </Link>

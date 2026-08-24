@@ -93,7 +93,7 @@ export default function MobileMenu() {
 
                         <div className="mt-4 border-t border-[var(--crn-border)] pt-4">
                             <a
-                                href="https://sgpc.crnsistemas.com.br"
+                                href="https://sgpc.crnsistemas.com.br/login"
                                 className="block w-full text-center rounded-lg bg-[var(--crn-yellow)] px-5 py-3 text-sm font-semibold text-[var(--crn-black)] transition hover:bg-[var(--crn-yellow-dark)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--crn-black)]"
                             >
                                 Acessar SGPC
