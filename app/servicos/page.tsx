@@ -66,9 +66,9 @@ export default function ServicosPage() {
       </section>
 
       <CTA
-        title="Precisa de uma solução específica?"
-        primaryButtonText="Falar com nossa equipe"
-        primaryButtonHref="/contato"
+        title="Não sabe por onde começar?"
+        primaryLabel="Falar com especialista"
+        primaryHref="/contato"
       />
     </>
   );

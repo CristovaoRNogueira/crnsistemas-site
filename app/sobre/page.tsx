@@ -68,9 +68,9 @@ export default function SobrePage() {
       </section>
 
       <CTA
-        title="Quer conhecer mais sobre as nossas soluções?"
-        primaryButtonText="Fale com a CRN Sistemas"
-        primaryButtonHref="/contato"
+        title="Vamos construir algo incrível juntos?"
+        primaryLabel="Fale com a CRN Sistemas"
+        primaryHref="/contato"
       />
     </>
   );

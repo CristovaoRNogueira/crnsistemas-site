@@ -69,9 +69,9 @@ export default function SitesPage() {
       </section>
 
       <CTA
-        title="Quer melhorar a presença digital da sua empresa?"
-        primaryButtonText="Fale conosco"
-        primaryButtonHref="/contato"
+        title="Sua empresa merece uma presença digital de alto nível."
+        primaryLabel="Solicitar orçamento"
+        primaryHref="/contato"
       />
     </>
   );

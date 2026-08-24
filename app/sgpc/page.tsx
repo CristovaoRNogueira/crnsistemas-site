@@ -176,10 +176,10 @@ export default function SGPCPage() {
       <CTA
         theme="dark"
         title="Pronto para modernizar a gestão pública?"
-        primaryButtonText="Acessar SGPC"
-        primaryButtonHref="https://sgpc.crnsistemas.com.br"
-        secondaryButtonText="Falar com a equipe"
-        secondaryButtonHref="/contato"
+        primaryLabel="Acessar SGPC"
+        primaryHref="https://sgpc.crnsistemas.com.br"
+        secondaryLabel="Falar com a equipe"
+        secondaryHref="/contato"
       />
     </>
   );

@@ -68,9 +68,9 @@ export default function SistemasPage() {
       </section>
 
       <CTA
-        title="Pronto para construir o seu sistema?"
-        primaryButtonText="Fale conosco"
-        primaryButtonHref="/contato"
+        title="Pronto para otimizar os processos da sua organização?"
+        primaryLabel="Fale com nossa equipe"
+        primaryHref="/contato"
       />
     </>
   );

@@ -67,9 +67,9 @@ export default function InfraestruturaPage() {
       </section>
 
       <CTA
-        title="Sua infraestrutura está pronta para crescer?"
-        primaryButtonText="Fale conosco"
-        primaryButtonHref="/contato"
+        title="Sua infraestrutura está preparada para crescer?"
+        primaryLabel="Falar com especialista"
+        primaryHref="/contato"
       />
     </>
   );

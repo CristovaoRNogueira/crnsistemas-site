@@ -6,13 +6,13 @@ export default function Header() {
     return (
         <header className="sticky top-0 z-50 border-b border-[var(--crn-border)] bg-white/95 backdrop-blur">
             <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6 lg:px-8">
-                <Link href="/" className="shrink-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--crn-yellow)] rounded">
+                <Link href="/" className="flex shrink-0 items-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--crn-yellow)] rounded">
                     <Image
                         src="/brand/crn-sistemas-horizontal.png"
                         alt="CRN Sistemas"
-                        width={180}
-                        height={60}
-                        className="h-10 w-auto"
+                        width={200}
+                        height={80}
+                        className="h-auto w-36 md:w-44 object-contain"
                         priority
                     />
                 </Link>

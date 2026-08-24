@@ -67,9 +67,9 @@ export default function GestaoPublicaPage() {
       </section>
 
       <CTA
-        title="Vamos modernizar a gestão do seu município?"
-        primaryButtonText="Fale conosco"
-        primaryButtonHref="/contato"
+        title="Dê o próximo passo na digitalização do seu município."
+        primaryLabel="Falar com especialista"
+        primaryHref="/contato"
       />
     </>
   );

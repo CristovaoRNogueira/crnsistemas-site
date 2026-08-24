@@ -67,9 +67,9 @@ export default function SuportePage() {
       </section>
 
       <CTA
-        title="Precisa de suporte especializado?"
-        primaryButtonText="Fale conosco"
-        primaryButtonHref="/contato"
+        title="Precisa de ajuda com sua infraestrutura de TI?"
+        primaryLabel="Falar com nossa equipe"
+        primaryHref="/contato"
       />
     </>
   );

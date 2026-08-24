@@ -209,17 +209,17 @@ export default function Home() {
       <CTA
         title="Tecnologia não precisa ser complicada. Precisa funcionar."
         description="Transformamos necessidades reais em soluções digitais práticas, eficientes e preparadas para evoluir."
-        primaryButtonText="Fale com a CRN Sistemas"
-        primaryButtonHref="/contato"
+        primaryLabel="Fale com a CRN Sistemas"
+        primaryHref="/contato"
       />
 
       <CTA
         theme="dark"
         title="Vamos transformar sua necessidade em uma solução?"
-        primaryButtonText="Falar com a CRN Sistemas"
-        primaryButtonHref="/contato"
-        secondaryButtonText="Conhecer o SGPC"
-        secondaryButtonHref="/sgpc"
+        primaryLabel="Falar com a CRN Sistemas"
+        primaryHref="/contato"
+        secondaryLabel="Conhecer o SGPC"
+        secondaryHref="/sgpc"
       />
     </>
   );
